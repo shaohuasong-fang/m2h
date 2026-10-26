@@ -58,8 +58,8 @@ npm -v
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/<你的用户名>/<仓库名>.git
-cd <仓库名>
+git clone https://github.com/shaohuasong-fang/m2h.git
+cd m2h
 
 # 2. 安装依赖（推荐用 ci 保证与 package-lock.json 一致）
 npm ci
